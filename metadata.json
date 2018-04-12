@@ -4,7 +4,7 @@
   "author": "Christian Gabara",
   "summary": "Manage sudo rules with puppet",
   "license": "Apache-2.0",
-  "source": "",
+  "source": "git@github.com:gabrizo/sudo.git",
   "dependencies": [
     {
       "name": "puppetlabs/stdlib",
