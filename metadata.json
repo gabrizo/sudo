@@ -2,13 +2,13 @@
   "name": "gabrizo-sudo",
   "version": "0.1.0",
   "author": "Christian Gabara",
-  "summary": "",
+  "summary": "Manage sudo rules with puppet",
   "license": "Apache-2.0",
   "source": "",
   "dependencies": [
     {
-      "name": "puppet-stdlib",
-      "version_requirement": ">= 4.0.0 < 6.0.0"
+      "name": "puppetlabs/stdlib",
+      "version_requirement": ">= 3.4.0 < 5.0.0"
     }
   ],
   "operatingsystem_support": [
